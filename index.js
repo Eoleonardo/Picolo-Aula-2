@@ -18,6 +18,9 @@ console.log(quadrado.area());
 let retangulo = new Retangulo("30","60")
 console.log(retangulo.area());
 
+var objeto = new Retangulo("40","40")
+console.log(objeto.area());
+
 
 
 
